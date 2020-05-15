@@ -8,6 +8,7 @@ struct Node{
 };
 struct Node * head=NULL;
 
+
 void insert(int data)
 {
     struct Node *temp=new Node;
